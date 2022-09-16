@@ -9,7 +9,7 @@
 
 ### What I
 * 🚩 Capture the Flag competitions
-* 💻 Full-Stack Dev
+* 💻 Backend Dev
 * 📚 Making tech education more accessible
 
 
