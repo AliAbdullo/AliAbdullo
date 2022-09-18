@@ -10,7 +10,7 @@
 ### What I
 * 🚩 Capture the Flag competitions
 * 💻 Backend Dev
-* 📚 Making tech education more accessible
+* 📚 
 
 
 ### What have I worked with?
