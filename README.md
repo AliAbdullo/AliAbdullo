@@ -15,8 +15,8 @@
 
 ### What have I worked with?
 <p>
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Django-43853d?style=flat-square&logo=Django&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/-Github-2088FF?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-43853d?style=flat-square&logo=Django&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=white" />
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/HTML-4EA94B?style=flat-square&logo=html&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS -00ADD8?style=flat-square&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
