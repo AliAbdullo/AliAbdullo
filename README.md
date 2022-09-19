@@ -8,7 +8,7 @@
 
 
 ### What I
-* 🚩 Capture the Flag competitions
+* 🚩 
 * 💻 Backend Dev
 * 📚 
 
