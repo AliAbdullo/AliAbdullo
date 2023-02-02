@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C#-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-4EA94B?style=flat-square&logo=html&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-.Net-430098?style=flat-square&logo=.Net&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
