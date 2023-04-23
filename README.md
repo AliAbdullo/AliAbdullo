@@ -27,8 +27,6 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-
-
 <--**AliAbdullo/AliAbdullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 Here are some ideas to get you started:
 <--
