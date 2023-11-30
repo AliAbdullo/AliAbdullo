@@ -13,7 +13,8 @@
 
 ### What have I worked with?
 <p>
-  <img alt="java" src="https://img.shields.io/badge/-Java-#f8fbff?style=flat-square&logo=java&logoColor=blue" />
+  <img alt="java" src="https://img.shields.io/badge/-Java-#f8fbff?style=flat-square&logo=java&logoColor=blue" /> 
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=blue" />
   <img alt="github" src="https://img.shields.io/badge/-Github-2088FF?style=flat-square&logo=github&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-43853d?style=flat-square&logo=Django&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
